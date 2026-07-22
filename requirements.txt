@@ -4,4 +4,4 @@ numpy
 seaborn 
 flask
 matplotlib
-#-e .
+-e .
