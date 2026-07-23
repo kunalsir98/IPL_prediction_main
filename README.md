@@ -31,7 +31,7 @@ This project predicts the outcome of IPL (Indian Premier League) matches using M
 6. Match Prediction
 
 ## 👥 Team Members
-- Kunal Chopde
+- Kunal 
 - Anand
 - Bilal
 
