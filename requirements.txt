@@ -2,12 +2,7 @@ scikit-learn
 pandas
 numpy 
 seaborn 
-<<<<<<< HEAD
 matplotlib 
 -e .
 
-=======
-flask
-matplotlib
--e .
->>>>>>> 4a4f3ce82f76aec236d6408a73373dc94d2d60f4
+
