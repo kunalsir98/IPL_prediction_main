@@ -1,8 +1,6 @@
-![alt text](ipl.jpg)
-
 # 🏏 IPL Match Prediction using Machine Learning
 
-![IPL Prediction Banner](images/ipl_prediction_poster.png)
+![IPL Prediction Banner](![alt text](ipl.jpg))
 
 ## 📌 Project Overview
 This project predicts the outcome of IPL (Indian Premier League) matches using Machine Learning techniques. The model analyzes historical IPL match data, team performance, venue statistics, toss decisions, and player-related factors to forecast match results.
